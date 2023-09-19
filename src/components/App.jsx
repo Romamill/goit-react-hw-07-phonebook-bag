@@ -1,7 +1,7 @@
 import { HeaderDiv, HeaderH1, HeaderH2 } from './AppNew.styled';
 import Filter from './ContactFilters/ContactFilters';
 import ContactFormPage from './ContactForm/ContactForm';
-import ContactListPage from './ContactList/ContactsList';
+import ContactListPage from './ContactsList/ContactsList';
 
 export const App = () => {
   return (

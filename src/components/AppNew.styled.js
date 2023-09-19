@@ -7,7 +7,7 @@ export const HeaderDiv = styled.div`
   justify-content: center;
   align-items: center;
   font-size: 40px;
-  color: blue;
+  color: green;
 `;
 
 export const HeaderH1 = styled.h1`
